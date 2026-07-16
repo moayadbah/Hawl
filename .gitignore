@@ -32,3 +32,6 @@ next-env.d.ts
 
 # python venv (legacy)
 .venv-stable/
+
+# internal-only docs
+ZAKAT_METHODOLOGY.md

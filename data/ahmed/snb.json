@@ -1,0 +1,3665 @@
+{
+  "bank": "snb",
+  "bankNameAr": "البنك الأهلي السعودي",
+  "accountId": "AC-SNB-9920",
+  "iban": "SA80 1000 0001 2300 0700 1010",
+  "accountType": "حساب جاري",
+  "currency": "SAR",
+  "openingDate": "2024-01-01",
+  "transactions": [
+    {
+      "transactionId": "SNB-01",
+      "bookingDate": "2024-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 217,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 217,
+        "currency": "SAR"
+      },
+      "description": "رصيد افتتاحي"
+    },
+    {
+      "transactionId": "SNB-02",
+      "bookingDate": "2024-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 167,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-03",
+      "bookingDate": "2024-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 217,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-04",
+      "bookingDate": "2024-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 177,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-05",
+      "bookingDate": "2024-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 217,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-06",
+      "bookingDate": "2024-02-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 8,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 225,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-07",
+      "bookingDate": "2024-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 175,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-08",
+      "bookingDate": "2024-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 225,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-09",
+      "bookingDate": "2024-02-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 101,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 124,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-10",
+      "bookingDate": "2024-02-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 101,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 225,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-11",
+      "bookingDate": "2024-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 185,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-12",
+      "bookingDate": "2024-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 225,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-13",
+      "bookingDate": "2024-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 33,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 258,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "SNB-14",
+      "bookingDate": "2024-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 208,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-15",
+      "bookingDate": "2024-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 258,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-16",
+      "bookingDate": "2024-03-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 95,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 163,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-17",
+      "bookingDate": "2024-03-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 95,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 258,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-18",
+      "bookingDate": "2024-03-18",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 68,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 190,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-19",
+      "bookingDate": "2024-03-19",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 68,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 258,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-20",
+      "bookingDate": "2024-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 218,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-21",
+      "bookingDate": "2024-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 258,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-22",
+      "bookingDate": "2024-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 109,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 367,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "SNB-23",
+      "bookingDate": "2024-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 317,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-24",
+      "bookingDate": "2024-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 367,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-25",
+      "bookingDate": "2024-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 327,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-26",
+      "bookingDate": "2024-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 367,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-27",
+      "bookingDate": "2024-05-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 41,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 408,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "SNB-28",
+      "bookingDate": "2024-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 358,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-29",
+      "bookingDate": "2024-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 408,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-30",
+      "bookingDate": "2024-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 368,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-31",
+      "bookingDate": "2024-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 408,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-32",
+      "bookingDate": "2024-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 17,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 425,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "SNB-33",
+      "bookingDate": "2024-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 375,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-34",
+      "bookingDate": "2024-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 425,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-35",
+      "bookingDate": "2024-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 385,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-36",
+      "bookingDate": "2024-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 425,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-37",
+      "bookingDate": "2024-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 17,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 442,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-38",
+      "bookingDate": "2024-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 392,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-39",
+      "bookingDate": "2024-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 442,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-40",
+      "bookingDate": "2024-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 402,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-41",
+      "bookingDate": "2024-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 442,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-42",
+      "bookingDate": "2024-08-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 16,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 458,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "SNB-43",
+      "bookingDate": "2024-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 408,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-44",
+      "bookingDate": "2024-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 458,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-45",
+      "bookingDate": "2024-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 418,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-46",
+      "bookingDate": "2024-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 458,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-47",
+      "bookingDate": "2024-09-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 175,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 283,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-48",
+      "bookingDate": "2024-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 233,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-49",
+      "bookingDate": "2024-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 283,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-50",
+      "bookingDate": "2024-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 243,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-51",
+      "bookingDate": "2024-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 283,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-52",
+      "bookingDate": "2024-10-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 16,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 267,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-53",
+      "bookingDate": "2024-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 217,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-54",
+      "bookingDate": "2024-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 267,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-55",
+      "bookingDate": "2024-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 227,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-56",
+      "bookingDate": "2024-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 267,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-57",
+      "bookingDate": "2024-11-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 16,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 283,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "SNB-58",
+      "bookingDate": "2024-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 233,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-59",
+      "bookingDate": "2024-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 283,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-60",
+      "bookingDate": "2024-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 243,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-61",
+      "bookingDate": "2024-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 283,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-62",
+      "bookingDate": "2024-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 150,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 433,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-63",
+      "bookingDate": "2024-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 383,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-64",
+      "bookingDate": "2024-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 433,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-65",
+      "bookingDate": "2024-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 393,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-66",
+      "bookingDate": "2024-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 433,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-67",
+      "bookingDate": "2025-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 957,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1390,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "SNB-68",
+      "bookingDate": "2025-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 56,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1334,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-69",
+      "bookingDate": "2025-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 56,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1390,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-70",
+      "bookingDate": "2025-01-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 85,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1305,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-71",
+      "bookingDate": "2025-01-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 85,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1390,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-72",
+      "bookingDate": "2025-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1350,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-73",
+      "bookingDate": "2025-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1390,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-74",
+      "bookingDate": "2025-02-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 888,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2278,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "SNB-75",
+      "bookingDate": "2025-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 91,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2187,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-76",
+      "bookingDate": "2025-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 91,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2278,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-77",
+      "bookingDate": "2025-02-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 68,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2210,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-78",
+      "bookingDate": "2025-02-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 68,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2278,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-79",
+      "bookingDate": "2025-02-18",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 101,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2177,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-80",
+      "bookingDate": "2025-02-19",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 101,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2278,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-81",
+      "bookingDate": "2025-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 57,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2221,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-82",
+      "bookingDate": "2025-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 57,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 2278,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-83",
+      "bookingDate": "2025-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 875,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3153,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "SNB-84",
+      "bookingDate": "2025-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 126,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3027,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-85",
+      "bookingDate": "2025-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 126,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3153,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-86",
+      "bookingDate": "2025-03-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 47,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3106,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-87",
+      "bookingDate": "2025-03-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 47,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3153,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-88",
+      "bookingDate": "2025-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 79,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3074,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-89",
+      "bookingDate": "2025-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 79,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3153,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-90",
+      "bookingDate": "2025-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 910,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4063,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "SNB-91",
+      "bookingDate": "2025-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 163,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3900,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-92",
+      "bookingDate": "2025-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 163,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4063,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-93",
+      "bookingDate": "2025-04-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 48,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4015,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-94",
+      "bookingDate": "2025-04-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 48,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4063,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-95",
+      "bookingDate": "2025-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 102,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3961,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-96",
+      "bookingDate": "2025-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 102,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4063,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-97",
+      "bookingDate": "2025-05-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 879,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4942,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-98",
+      "bookingDate": "2025-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 198,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4744,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-99",
+      "bookingDate": "2025-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 198,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4942,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-100",
+      "bookingDate": "2025-05-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 75,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4867,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-101",
+      "bookingDate": "2025-05-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 75,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4942,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-102",
+      "bookingDate": "2025-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 124,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4818,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-103",
+      "bookingDate": "2025-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 124,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 4942,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-104",
+      "bookingDate": "2025-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 886,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5828,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "SNB-105",
+      "bookingDate": "2025-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 233,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5595,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-106",
+      "bookingDate": "2025-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 233,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5828,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-107",
+      "bookingDate": "2025-06-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 98,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5730,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-108",
+      "bookingDate": "2025-06-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 98,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5828,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-109",
+      "bookingDate": "2025-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 146,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5682,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-110",
+      "bookingDate": "2025-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 146,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5828,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-111",
+      "bookingDate": "2025-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 874,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 6702,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "SNB-112",
+      "bookingDate": "2025-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 268,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 6434,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-113",
+      "bookingDate": "2025-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 268,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 6702,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-114",
+      "bookingDate": "2025-07-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 70,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 6632,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-115",
+      "bookingDate": "2025-07-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 70,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 6702,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-116",
+      "bookingDate": "2025-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 168,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 6534,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-117",
+      "bookingDate": "2025-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 168,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 6702,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-118",
+      "bookingDate": "2025-08-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 728,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7430,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "SNB-119",
+      "bookingDate": "2025-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 297,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7133,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-120",
+      "bookingDate": "2025-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 297,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7430,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-121",
+      "bookingDate": "2025-08-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 102,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7328,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-122",
+      "bookingDate": "2025-08-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 102,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7430,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-123",
+      "bookingDate": "2025-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 186,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7244,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-124",
+      "bookingDate": "2025-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 186,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7430,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-125",
+      "bookingDate": "2025-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 626,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "SNB-126",
+      "bookingDate": "2025-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 322,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7734,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-127",
+      "bookingDate": "2025-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 322,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-128",
+      "bookingDate": "2025-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 201,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7855,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-129",
+      "bookingDate": "2025-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 201,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-130",
+      "bookingDate": "2025-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 322,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7734,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-131",
+      "bookingDate": "2025-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 322,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-132",
+      "bookingDate": "2025-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 201,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7855,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-133",
+      "bookingDate": "2025-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 201,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-134",
+      "bookingDate": "2025-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 322,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7734,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-135",
+      "bookingDate": "2025-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 322,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-136",
+      "bookingDate": "2025-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 201,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7855,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-137",
+      "bookingDate": "2025-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 201,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-138",
+      "bookingDate": "2025-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 322,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7734,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-139",
+      "bookingDate": "2025-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 322,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-140",
+      "bookingDate": "2025-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 201,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7855,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-141",
+      "bookingDate": "2025-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 201,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8056,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-142",
+      "bookingDate": "2026-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 611,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8667,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "SNB-143",
+      "bookingDate": "2026-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 347,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8320,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-144",
+      "bookingDate": "2026-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 347,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8667,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-145",
+      "bookingDate": "2026-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 217,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8450,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-146",
+      "bookingDate": "2026-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 217,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8667,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-147",
+      "bookingDate": "2026-02-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 417,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8250,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-148",
+      "bookingDate": "2026-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 330,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7920,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-149",
+      "bookingDate": "2026-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 330,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8250,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-150",
+      "bookingDate": "2026-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 206,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8044,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-151",
+      "bookingDate": "2026-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 206,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8250,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-152",
+      "bookingDate": "2026-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 917,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9167,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-153",
+      "bookingDate": "2026-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 367,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8800,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-154",
+      "bookingDate": "2026-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 367,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9167,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-155",
+      "bookingDate": "2026-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 229,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8938,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-156",
+      "bookingDate": "2026-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 229,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9167,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-157",
+      "bookingDate": "2026-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9667,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "SNB-158",
+      "bookingDate": "2026-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 387,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9280,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-159",
+      "bookingDate": "2026-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 387,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9667,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-160",
+      "bookingDate": "2026-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 242,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9425,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-161",
+      "bookingDate": "2026-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 242,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9667,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-162",
+      "bookingDate": "2026-05-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 667,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9000,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-163",
+      "bookingDate": "2026-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 360,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8640,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-164",
+      "bookingDate": "2026-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 360,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-165",
+      "bookingDate": "2026-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 225,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8775,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-166",
+      "bookingDate": "2026-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 225,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-167",
+      "bookingDate": "2026-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1167,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10167,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "SNB-168",
+      "bookingDate": "2026-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 407,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9760,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-169",
+      "bookingDate": "2026-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 407,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10167,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-170",
+      "bookingDate": "2026-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 254,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9913,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-171",
+      "bookingDate": "2026-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 254,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10167,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-172",
+      "bookingDate": "2026-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 833,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11000,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "SNB-173",
+      "bookingDate": "2026-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 440,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10560,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-174",
+      "bookingDate": "2026-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 440,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11000,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-175",
+      "bookingDate": "2026-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 275,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10725,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-176",
+      "bookingDate": "2026-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 275,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11000,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-177",
+      "bookingDate": "2026-08-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10500,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-178",
+      "bookingDate": "2026-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 420,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10080,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-179",
+      "bookingDate": "2026-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 420,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10500,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-180",
+      "bookingDate": "2026-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 263,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10237,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-181",
+      "bookingDate": "2026-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 263,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10500,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-182",
+      "bookingDate": "2026-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1167,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11667,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "SNB-183",
+      "bookingDate": "2026-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 467,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11200,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-184",
+      "bookingDate": "2026-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 467,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11667,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-185",
+      "bookingDate": "2026-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 292,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11375,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-186",
+      "bookingDate": "2026-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 292,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11667,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-187",
+      "bookingDate": "2026-10-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 666,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12333,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "SNB-188",
+      "bookingDate": "2026-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 493,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11840,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-189",
+      "bookingDate": "2026-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 493,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12333,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-190",
+      "bookingDate": "2026-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 308,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12025,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-191",
+      "bookingDate": "2026-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 308,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12333,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-192",
+      "bookingDate": "2026-11-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11833,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-193",
+      "bookingDate": "2026-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 473,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11360,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-194",
+      "bookingDate": "2026-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 473,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11833,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-195",
+      "bookingDate": "2026-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 296,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11537,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-196",
+      "bookingDate": "2026-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 296,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11833,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-197",
+      "bookingDate": "2026-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1334,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13167,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "SNB-198",
+      "bookingDate": "2026-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 527,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12640,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-199",
+      "bookingDate": "2026-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 527,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13167,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-200",
+      "bookingDate": "2026-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 329,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12838,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-201",
+      "bookingDate": "2026-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 329,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13167,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-202",
+      "bookingDate": "2027-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 833,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-203",
+      "bookingDate": "2027-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 560,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13440,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-204",
+      "bookingDate": "2027-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 560,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-205",
+      "bookingDate": "2027-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 350,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13650,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-206",
+      "bookingDate": "2027-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 350,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-207",
+      "bookingDate": "2027-02-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 667,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13333,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-208",
+      "bookingDate": "2027-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 533,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12800,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-209",
+      "bookingDate": "2027-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 533,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13333,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-210",
+      "bookingDate": "2027-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 333,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13000,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-211",
+      "bookingDate": "2027-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 333,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13333,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-212",
+      "bookingDate": "2027-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1334,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14667,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "SNB-213",
+      "bookingDate": "2027-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 587,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14080,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-214",
+      "bookingDate": "2027-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 587,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14667,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-215",
+      "bookingDate": "2027-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 367,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14300,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-216",
+      "bookingDate": "2027-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 367,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14667,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-217",
+      "bookingDate": "2027-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 833,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15500,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "SNB-218",
+      "bookingDate": "2027-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14880,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-219",
+      "bookingDate": "2027-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15500,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-220",
+      "bookingDate": "2027-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 388,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15112,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-221",
+      "bookingDate": "2027-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 388,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15500,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-222",
+      "bookingDate": "2027-05-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15000,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-223",
+      "bookingDate": "2027-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14400,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-224",
+      "bookingDate": "2027-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-225",
+      "bookingDate": "2027-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 375,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14625,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-226",
+      "bookingDate": "2027-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 375,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-227",
+      "bookingDate": "2027-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1167,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16167,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-228",
+      "bookingDate": "2027-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 647,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15520,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-229",
+      "bookingDate": "2027-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 647,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16167,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-230",
+      "bookingDate": "2027-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 404,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15763,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-231",
+      "bookingDate": "2027-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 404,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16167,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-232",
+      "bookingDate": "2027-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1000,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17167,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "SNB-233",
+      "bookingDate": "2027-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 687,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16480,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-234",
+      "bookingDate": "2027-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 687,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17167,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-235",
+      "bookingDate": "2027-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 429,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16738,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-236",
+      "bookingDate": "2027-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 429,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17167,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-237",
+      "bookingDate": "2027-08-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 667,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16500,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-238",
+      "bookingDate": "2027-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 660,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15840,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-239",
+      "bookingDate": "2027-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 660,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16500,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-240",
+      "bookingDate": "2027-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 413,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16087,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-241",
+      "bookingDate": "2027-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 413,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16500,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-242",
+      "bookingDate": "2027-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18000,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "SNB-243",
+      "bookingDate": "2027-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 720,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17280,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "SNB-244",
+      "bookingDate": "2027-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 720,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "SNB-245",
+      "bookingDate": "2027-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 450,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17550,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-246",
+      "bookingDate": "2027-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 450,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-247",
+      "bookingDate": "2027-10-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1000,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19000,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "SNB-248",
+      "bookingDate": "2027-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 760,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18240,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "SNB-249",
+      "bookingDate": "2027-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 760,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "SNB-250",
+      "bookingDate": "2027-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 475,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18525,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-251",
+      "bookingDate": "2027-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 475,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19000,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-252",
+      "bookingDate": "2027-11-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 667,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18333,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-253",
+      "bookingDate": "2027-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 733,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17600,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "SNB-254",
+      "bookingDate": "2027-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 733,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18333,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "SNB-255",
+      "bookingDate": "2027-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 458,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17875,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "SNB-256",
+      "bookingDate": "2027-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 458,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18333,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-257",
+      "bookingDate": "2027-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1667,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20000,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "SNB-258",
+      "bookingDate": "2027-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19200,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "SNB-259",
+      "bookingDate": "2027-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20000,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "SNB-260",
+      "bookingDate": "2027-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19500,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "SNB-261",
+      "bookingDate": "2027-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    }
+  ]
+}

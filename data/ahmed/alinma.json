@@ -1,0 +1,3609 @@
+{
+  "bank": "alinma",
+  "bankNameAr": "مصرف الإنماء",
+  "accountId": "AC-ALINMA-7782",
+  "iban": "SA44 2000 0001 2345 6789 1234",
+  "accountType": "حساب جاري",
+  "currency": "SAR",
+  "openingDate": "2024-01-01",
+  "transactions": [
+    {
+      "transactionId": "ALINMA-01",
+      "bookingDate": "2024-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 563,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 563,
+        "currency": "SAR"
+      },
+      "description": "رصيد افتتاحي"
+    },
+    {
+      "transactionId": "ALINMA-02",
+      "bookingDate": "2024-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 513,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-03",
+      "bookingDate": "2024-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 563,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-04",
+      "bookingDate": "2024-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 523,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-05",
+      "bookingDate": "2024-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 563,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-06",
+      "bookingDate": "2024-02-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 22,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 585,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-07",
+      "bookingDate": "2024-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 535,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-08",
+      "bookingDate": "2024-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 585,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-09",
+      "bookingDate": "2024-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 545,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-10",
+      "bookingDate": "2024-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 585,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-11",
+      "bookingDate": "2024-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 87,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 672,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "ALINMA-12",
+      "bookingDate": "2024-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 622,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-13",
+      "bookingDate": "2024-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 672,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-14",
+      "bookingDate": "2024-03-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 78,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 594,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-15",
+      "bookingDate": "2024-03-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 78,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 672,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-16",
+      "bookingDate": "2024-03-18",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 67,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 605,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-17",
+      "bookingDate": "2024-03-19",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 67,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 672,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-18",
+      "bookingDate": "2024-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 632,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-19",
+      "bookingDate": "2024-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 672,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-20",
+      "bookingDate": "2024-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 281,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 953,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "ALINMA-21",
+      "bookingDate": "2024-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 903,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-22",
+      "bookingDate": "2024-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 953,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-23",
+      "bookingDate": "2024-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 913,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-24",
+      "bookingDate": "2024-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 953,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-25",
+      "bookingDate": "2024-05-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 109,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1062,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "ALINMA-26",
+      "bookingDate": "2024-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1012,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-27",
+      "bookingDate": "2024-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1062,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-28",
+      "bookingDate": "2024-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1022,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-29",
+      "bookingDate": "2024-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1062,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-30",
+      "bookingDate": "2024-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 43,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1105,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "ALINMA-31",
+      "bookingDate": "2024-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1055,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-32",
+      "bookingDate": "2024-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1105,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-33",
+      "bookingDate": "2024-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1065,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-34",
+      "bookingDate": "2024-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1105,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-35",
+      "bookingDate": "2024-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 43,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1148,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-36",
+      "bookingDate": "2024-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1098,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-37",
+      "bookingDate": "2024-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1148,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-38",
+      "bookingDate": "2024-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1108,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-39",
+      "bookingDate": "2024-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1148,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-40",
+      "bookingDate": "2024-08-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 44,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1192,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "ALINMA-41",
+      "bookingDate": "2024-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1142,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-42",
+      "bookingDate": "2024-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1192,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-43",
+      "bookingDate": "2024-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1152,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-44",
+      "bookingDate": "2024-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1192,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-45",
+      "bookingDate": "2024-09-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 455,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 737,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-46",
+      "bookingDate": "2024-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 687,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-47",
+      "bookingDate": "2024-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 737,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-48",
+      "bookingDate": "2024-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 697,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-49",
+      "bookingDate": "2024-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 737,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-50",
+      "bookingDate": "2024-10-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 44,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 693,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-51",
+      "bookingDate": "2024-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 643,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-52",
+      "bookingDate": "2024-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 693,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-53",
+      "bookingDate": "2024-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 653,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-54",
+      "bookingDate": "2024-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 693,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-55",
+      "bookingDate": "2024-11-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 44,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 737,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "ALINMA-56",
+      "bookingDate": "2024-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 687,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-57",
+      "bookingDate": "2024-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 737,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-58",
+      "bookingDate": "2024-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 697,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-59",
+      "bookingDate": "2024-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 737,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-60",
+      "bookingDate": "2024-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 390,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1127,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-61",
+      "bookingDate": "2024-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1077,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-62",
+      "bookingDate": "2024-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1127,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-63",
+      "bookingDate": "2024-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1087,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-64",
+      "bookingDate": "2024-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1127,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-65",
+      "bookingDate": "2025-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2487,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3614,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "ALINMA-66",
+      "bookingDate": "2025-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 145,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3469,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-67",
+      "bookingDate": "2025-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 145,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3614,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-68",
+      "bookingDate": "2025-01-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 79,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3535,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-69",
+      "bookingDate": "2025-01-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 79,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3614,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-70",
+      "bookingDate": "2025-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 90,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3524,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-71",
+      "bookingDate": "2025-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 90,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3614,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-72",
+      "bookingDate": "2025-02-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2310,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5924,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "ALINMA-73",
+      "bookingDate": "2025-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 237,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5687,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-74",
+      "bookingDate": "2025-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 237,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5924,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-75",
+      "bookingDate": "2025-02-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 38,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5886,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-76",
+      "bookingDate": "2025-02-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 38,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5924,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-77",
+      "bookingDate": "2025-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 148,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5776,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-78",
+      "bookingDate": "2025-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 148,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5924,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-79",
+      "bookingDate": "2025-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2275,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8199,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "ALINMA-80",
+      "bookingDate": "2025-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 328,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7871,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-81",
+      "bookingDate": "2025-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 328,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8199,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-82",
+      "bookingDate": "2025-03-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 77,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8122,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-83",
+      "bookingDate": "2025-03-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 77,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8199,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-84",
+      "bookingDate": "2025-03-18",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 39,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8160,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-85",
+      "bookingDate": "2025-03-19",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 39,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8199,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-86",
+      "bookingDate": "2025-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 205,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7994,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-87",
+      "bookingDate": "2025-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 205,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 8199,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-88",
+      "bookingDate": "2025-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2366,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10565,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "ALINMA-89",
+      "bookingDate": "2025-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 423,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10142,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-90",
+      "bookingDate": "2025-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 423,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10565,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-91",
+      "bookingDate": "2025-04-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 86,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10479,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-92",
+      "bookingDate": "2025-04-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 86,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10565,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-93",
+      "bookingDate": "2025-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 264,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10301,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-94",
+      "bookingDate": "2025-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 264,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 10565,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-95",
+      "bookingDate": "2025-05-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2283,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12848,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-96",
+      "bookingDate": "2025-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 514,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12334,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-97",
+      "bookingDate": "2025-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 514,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12848,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-98",
+      "bookingDate": "2025-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 321,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12527,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-99",
+      "bookingDate": "2025-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 321,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 12848,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-100",
+      "bookingDate": "2025-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2306,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15154,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "ALINMA-101",
+      "bookingDate": "2025-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 606,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14548,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-102",
+      "bookingDate": "2025-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 606,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15154,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-103",
+      "bookingDate": "2025-06-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 36,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15118,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-104",
+      "bookingDate": "2025-06-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 36,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15154,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-105",
+      "bookingDate": "2025-06-18",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 92,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15062,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-106",
+      "bookingDate": "2025-06-19",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 92,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15154,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-107",
+      "bookingDate": "2025-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 379,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 14775,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-108",
+      "bookingDate": "2025-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 379,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15154,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-109",
+      "bookingDate": "2025-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2270,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17424,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "ALINMA-110",
+      "bookingDate": "2025-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 697,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16727,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-111",
+      "bookingDate": "2025-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 697,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17424,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-112",
+      "bookingDate": "2025-07-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 55,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17369,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-113",
+      "bookingDate": "2025-07-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 55,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17424,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-114",
+      "bookingDate": "2025-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 436,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16988,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-115",
+      "bookingDate": "2025-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 436,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17424,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-116",
+      "bookingDate": "2025-08-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1894,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19318,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "ALINMA-117",
+      "bookingDate": "2025-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18545,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-118",
+      "bookingDate": "2025-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19318,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-119",
+      "bookingDate": "2025-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18835,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-120",
+      "bookingDate": "2025-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19318,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-121",
+      "bookingDate": "2025-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1628,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "ALINMA-122",
+      "bookingDate": "2025-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20146,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-123",
+      "bookingDate": "2025-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-124",
+      "bookingDate": "2025-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20446,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-125",
+      "bookingDate": "2025-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-126",
+      "bookingDate": "2025-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20146,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-127",
+      "bookingDate": "2025-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-128",
+      "bookingDate": "2025-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20446,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-129",
+      "bookingDate": "2025-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-130",
+      "bookingDate": "2025-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20146,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-131",
+      "bookingDate": "2025-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-132",
+      "bookingDate": "2025-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20446,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-133",
+      "bookingDate": "2025-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-134",
+      "bookingDate": "2025-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20146,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-135",
+      "bookingDate": "2025-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-136",
+      "bookingDate": "2025-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20446,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-137",
+      "bookingDate": "2025-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20946,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-138",
+      "bookingDate": "2026-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1587,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22533,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "ALINMA-139",
+      "bookingDate": "2026-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21733,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-140",
+      "bookingDate": "2026-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22533,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-141",
+      "bookingDate": "2026-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22033,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-142",
+      "bookingDate": "2026-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22533,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-143",
+      "bookingDate": "2026-02-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1083,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21450,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-144",
+      "bookingDate": "2026-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20650,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-145",
+      "bookingDate": "2026-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21450,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-146",
+      "bookingDate": "2026-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20950,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-147",
+      "bookingDate": "2026-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21450,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-148",
+      "bookingDate": "2026-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2383,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23833,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-149",
+      "bookingDate": "2026-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23033,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-150",
+      "bookingDate": "2026-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23833,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-151",
+      "bookingDate": "2026-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23333,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-152",
+      "bookingDate": "2026-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23833,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-153",
+      "bookingDate": "2026-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1300,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25133,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "ALINMA-154",
+      "bookingDate": "2026-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 24333,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-155",
+      "bookingDate": "2026-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25133,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-156",
+      "bookingDate": "2026-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 24633,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-157",
+      "bookingDate": "2026-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25133,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-158",
+      "bookingDate": "2026-05-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1733,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23400,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-159",
+      "bookingDate": "2026-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22600,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-160",
+      "bookingDate": "2026-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23400,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-161",
+      "bookingDate": "2026-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22900,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-162",
+      "bookingDate": "2026-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23400,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-163",
+      "bookingDate": "2026-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3033,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 26433,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "ALINMA-164",
+      "bookingDate": "2026-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25633,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-165",
+      "bookingDate": "2026-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 26433,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-166",
+      "bookingDate": "2026-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25933,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-167",
+      "bookingDate": "2026-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 26433,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-168",
+      "bookingDate": "2026-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2167,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28600,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "ALINMA-169",
+      "bookingDate": "2026-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 27800,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-170",
+      "bookingDate": "2026-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28600,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-171",
+      "bookingDate": "2026-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28100,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-172",
+      "bookingDate": "2026-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28600,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-173",
+      "bookingDate": "2026-08-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1300,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 27300,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-174",
+      "bookingDate": "2026-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 26500,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-175",
+      "bookingDate": "2026-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 27300,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-176",
+      "bookingDate": "2026-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 26800,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-177",
+      "bookingDate": "2026-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 27300,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-178",
+      "bookingDate": "2026-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3033,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 30333,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "ALINMA-179",
+      "bookingDate": "2026-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 29533,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-180",
+      "bookingDate": "2026-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 30333,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-181",
+      "bookingDate": "2026-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 29833,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-182",
+      "bookingDate": "2026-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 30333,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-183",
+      "bookingDate": "2026-10-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1734,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 32067,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "ALINMA-184",
+      "bookingDate": "2026-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 31267,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-185",
+      "bookingDate": "2026-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 32067,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-186",
+      "bookingDate": "2026-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 31567,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-187",
+      "bookingDate": "2026-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 32067,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-188",
+      "bookingDate": "2026-11-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1300,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 30767,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-189",
+      "bookingDate": "2026-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 29967,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-190",
+      "bookingDate": "2026-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 30767,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-191",
+      "bookingDate": "2026-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 30267,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-192",
+      "bookingDate": "2026-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 30767,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-193",
+      "bookingDate": "2026-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3466,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34233,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "ALINMA-194",
+      "bookingDate": "2026-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 33433,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-195",
+      "bookingDate": "2026-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34233,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-196",
+      "bookingDate": "2026-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 33733,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-197",
+      "bookingDate": "2026-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34233,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-198",
+      "bookingDate": "2027-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2167,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 36400,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-199",
+      "bookingDate": "2027-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 35600,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-200",
+      "bookingDate": "2027-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 36400,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-201",
+      "bookingDate": "2027-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 35900,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-202",
+      "bookingDate": "2027-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 36400,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-203",
+      "bookingDate": "2027-02-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1733,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34667,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-204",
+      "bookingDate": "2027-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 33867,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-205",
+      "bookingDate": "2027-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34667,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-206",
+      "bookingDate": "2027-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34167,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-207",
+      "bookingDate": "2027-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34667,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-208",
+      "bookingDate": "2027-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3466,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38133,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "ALINMA-209",
+      "bookingDate": "2027-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 37333,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-210",
+      "bookingDate": "2027-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38133,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-211",
+      "bookingDate": "2027-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 37633,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-212",
+      "bookingDate": "2027-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38133,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-213",
+      "bookingDate": "2027-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2167,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 40300,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "ALINMA-214",
+      "bookingDate": "2027-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39500,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-215",
+      "bookingDate": "2027-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 40300,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-216",
+      "bookingDate": "2027-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39800,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-217",
+      "bookingDate": "2027-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 40300,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-218",
+      "bookingDate": "2027-05-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1300,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39000,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-219",
+      "bookingDate": "2027-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38200,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-220",
+      "bookingDate": "2027-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-221",
+      "bookingDate": "2027-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38500,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-222",
+      "bookingDate": "2027-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-223",
+      "bookingDate": "2027-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3033,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42033,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-224",
+      "bookingDate": "2027-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 41233,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-225",
+      "bookingDate": "2027-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42033,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-226",
+      "bookingDate": "2027-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 41533,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-227",
+      "bookingDate": "2027-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42033,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-228",
+      "bookingDate": "2027-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 44633,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "ALINMA-229",
+      "bookingDate": "2027-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 43833,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-230",
+      "bookingDate": "2027-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 44633,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-231",
+      "bookingDate": "2027-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 44133,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-232",
+      "bookingDate": "2027-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 44633,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-233",
+      "bookingDate": "2027-08-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1733,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42900,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-234",
+      "bookingDate": "2027-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42100,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-235",
+      "bookingDate": "2027-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42900,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-236",
+      "bookingDate": "2027-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42400,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-237",
+      "bookingDate": "2027-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42900,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-238",
+      "bookingDate": "2027-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3900,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 46800,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "ALINMA-239",
+      "bookingDate": "2027-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 46000,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "ALINMA-240",
+      "bookingDate": "2027-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 46800,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "ALINMA-241",
+      "bookingDate": "2027-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 46300,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-242",
+      "bookingDate": "2027-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 46800,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-243",
+      "bookingDate": "2027-10-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 49400,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "ALINMA-244",
+      "bookingDate": "2027-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 48600,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "ALINMA-245",
+      "bookingDate": "2027-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 49400,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "ALINMA-246",
+      "bookingDate": "2027-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 48900,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-247",
+      "bookingDate": "2027-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 49400,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-248",
+      "bookingDate": "2027-11-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1733,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 47667,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-249",
+      "bookingDate": "2027-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 46867,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "ALINMA-250",
+      "bookingDate": "2027-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 47667,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "ALINMA-251",
+      "bookingDate": "2027-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 47167,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "ALINMA-252",
+      "bookingDate": "2027-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 47667,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-253",
+      "bookingDate": "2027-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 4333,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 52000,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "ALINMA-254",
+      "bookingDate": "2027-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 51200,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "ALINMA-255",
+      "bookingDate": "2027-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 52000,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "ALINMA-256",
+      "bookingDate": "2027-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 51500,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "ALINMA-257",
+      "bookingDate": "2027-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 52000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    }
+  ]
+}

@@ -1,0 +1,3581 @@
+{
+  "bank": "rajhi",
+  "bankNameAr": "مصرف الراجحي",
+  "accountId": "AC-RAJHI-4451",
+  "iban": "SA03 8000 0000 6080 1016 7519",
+  "accountType": "حساب توفير",
+  "currency": "SAR",
+  "openingDate": "2024-01-01",
+  "transactions": [
+    {
+      "transactionId": "RAJHI-01",
+      "bookingDate": "2024-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 520,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 520,
+        "currency": "SAR"
+      },
+      "description": "رصيد افتتاحي"
+    },
+    {
+      "transactionId": "RAJHI-02",
+      "bookingDate": "2024-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 470,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-03",
+      "bookingDate": "2024-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 520,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-04",
+      "bookingDate": "2024-01-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 45,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 475,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-05",
+      "bookingDate": "2024-01-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 45,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 520,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-06",
+      "bookingDate": "2024-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 480,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-07",
+      "bookingDate": "2024-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 520,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-08",
+      "bookingDate": "2024-02-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 20,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 540,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-09",
+      "bookingDate": "2024-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 490,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-10",
+      "bookingDate": "2024-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 540,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-11",
+      "bookingDate": "2024-02-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 46,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 494,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-12",
+      "bookingDate": "2024-02-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 46,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 540,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-13",
+      "bookingDate": "2024-02-18",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 51,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 489,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-14",
+      "bookingDate": "2024-02-19",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 51,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 540,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-15",
+      "bookingDate": "2024-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-16",
+      "bookingDate": "2024-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 540,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-17",
+      "bookingDate": "2024-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 80,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "RAJHI-18",
+      "bookingDate": "2024-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 570,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-19",
+      "bookingDate": "2024-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-20",
+      "bookingDate": "2024-03-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 75,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 545,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-21",
+      "bookingDate": "2024-03-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 75,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-22",
+      "bookingDate": "2024-03-18",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 88,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 532,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-23",
+      "bookingDate": "2024-03-19",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 88,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-24",
+      "bookingDate": "2024-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 580,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-25",
+      "bookingDate": "2024-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 620,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-26",
+      "bookingDate": "2024-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 260,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 880,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "RAJHI-27",
+      "bookingDate": "2024-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 830,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-28",
+      "bookingDate": "2024-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 880,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-29",
+      "bookingDate": "2024-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 840,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-30",
+      "bookingDate": "2024-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 880,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-31",
+      "bookingDate": "2024-05-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 100,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 980,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "RAJHI-32",
+      "bookingDate": "2024-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 930,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-33",
+      "bookingDate": "2024-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 980,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-34",
+      "bookingDate": "2024-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 940,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-35",
+      "bookingDate": "2024-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 980,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-36",
+      "bookingDate": "2024-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1020,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "RAJHI-37",
+      "bookingDate": "2024-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 970,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-38",
+      "bookingDate": "2024-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1020,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-39",
+      "bookingDate": "2024-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 980,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-40",
+      "bookingDate": "2024-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1020,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-41",
+      "bookingDate": "2024-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1060,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-42",
+      "bookingDate": "2024-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1010,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-43",
+      "bookingDate": "2024-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1060,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-44",
+      "bookingDate": "2024-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1020,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-45",
+      "bookingDate": "2024-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1060,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-46",
+      "bookingDate": "2024-08-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1100,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "RAJHI-47",
+      "bookingDate": "2024-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1050,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-48",
+      "bookingDate": "2024-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1100,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-49",
+      "bookingDate": "2024-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1060,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-50",
+      "bookingDate": "2024-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1100,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-51",
+      "bookingDate": "2024-09-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 420,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 680,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-52",
+      "bookingDate": "2024-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 630,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-53",
+      "bookingDate": "2024-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 680,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-54",
+      "bookingDate": "2024-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 640,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-55",
+      "bookingDate": "2024-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 680,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-56",
+      "bookingDate": "2024-10-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 640,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-57",
+      "bookingDate": "2024-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 590,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-58",
+      "bookingDate": "2024-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 640,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-59",
+      "bookingDate": "2024-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 600,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-60",
+      "bookingDate": "2024-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 640,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-61",
+      "bookingDate": "2024-11-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 680,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "RAJHI-62",
+      "bookingDate": "2024-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 630,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-63",
+      "bookingDate": "2024-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 680,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-64",
+      "bookingDate": "2024-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 640,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-65",
+      "bookingDate": "2024-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 680,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-66",
+      "bookingDate": "2024-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 360,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1040,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-67",
+      "bookingDate": "2024-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 990,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-68",
+      "bookingDate": "2024-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 50,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1040,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-69",
+      "bookingDate": "2024-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1000,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-70",
+      "bookingDate": "2024-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 40,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 1040,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-71",
+      "bookingDate": "2025-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2296,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3336,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "RAJHI-72",
+      "bookingDate": "2025-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 133,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3203,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-73",
+      "bookingDate": "2025-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 133,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3336,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-74",
+      "bookingDate": "2025-01-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 30,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3306,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-75",
+      "bookingDate": "2025-01-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 30,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3336,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-76",
+      "bookingDate": "2025-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 83,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3253,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-77",
+      "bookingDate": "2025-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 83,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 3336,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-78",
+      "bookingDate": "2025-02-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2132,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5468,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "RAJHI-79",
+      "bookingDate": "2025-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 219,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5249,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-80",
+      "bookingDate": "2025-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 219,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5468,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-81",
+      "bookingDate": "2025-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 137,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5331,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-82",
+      "bookingDate": "2025-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 137,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 5468,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-83",
+      "bookingDate": "2025-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2100,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7568,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "RAJHI-84",
+      "bookingDate": "2025-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 303,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7265,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-85",
+      "bookingDate": "2025-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 303,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7568,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-86",
+      "bookingDate": "2025-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 189,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7379,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-87",
+      "bookingDate": "2025-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 189,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 7568,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-88",
+      "bookingDate": "2025-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2184,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9752,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "RAJHI-89",
+      "bookingDate": "2025-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 390,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9362,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-90",
+      "bookingDate": "2025-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 390,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9752,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-91",
+      "bookingDate": "2025-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 244,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9508,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-92",
+      "bookingDate": "2025-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 244,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 9752,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-93",
+      "bookingDate": "2025-05-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2108,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11860,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-94",
+      "bookingDate": "2025-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 474,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11386,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-95",
+      "bookingDate": "2025-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 474,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11860,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-96",
+      "bookingDate": "2025-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 297,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11563,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-97",
+      "bookingDate": "2025-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 297,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 11860,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-98",
+      "bookingDate": "2025-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2128,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13988,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "RAJHI-99",
+      "bookingDate": "2025-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 560,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13428,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-100",
+      "bookingDate": "2025-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 560,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13988,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-101",
+      "bookingDate": "2025-06-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 59,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13929,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-102",
+      "bookingDate": "2025-06-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 59,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13988,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-103",
+      "bookingDate": "2025-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 350,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13638,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-104",
+      "bookingDate": "2025-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 350,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 13988,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-105",
+      "bookingDate": "2025-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2096,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16084,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "RAJHI-106",
+      "bookingDate": "2025-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 643,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15441,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-107",
+      "bookingDate": "2025-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 643,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16084,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-108",
+      "bookingDate": "2025-07-15",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 53,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16031,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-109",
+      "bookingDate": "2025-07-16",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 53,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16084,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-110",
+      "bookingDate": "2025-07-18",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 27,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16057,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-111",
+      "bookingDate": "2025-07-19",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 27,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16084,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-112",
+      "bookingDate": "2025-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 402,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 15682,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-113",
+      "bookingDate": "2025-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 402,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 16084,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-114",
+      "bookingDate": "2025-08-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1748,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17832,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "RAJHI-115",
+      "bookingDate": "2025-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 713,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17119,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-116",
+      "bookingDate": "2025-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 713,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17832,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-117",
+      "bookingDate": "2025-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 446,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17386,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-118",
+      "bookingDate": "2025-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 446,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 17832,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-119",
+      "bookingDate": "2025-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1502,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "RAJHI-120",
+      "bookingDate": "2025-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18561,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-121",
+      "bookingDate": "2025-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-122",
+      "bookingDate": "2025-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18851,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-123",
+      "bookingDate": "2025-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-124",
+      "bookingDate": "2025-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18561,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-125",
+      "bookingDate": "2025-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-126",
+      "bookingDate": "2025-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18851,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-127",
+      "bookingDate": "2025-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-128",
+      "bookingDate": "2025-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18561,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-129",
+      "bookingDate": "2025-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-130",
+      "bookingDate": "2025-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18851,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-131",
+      "bookingDate": "2025-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-132",
+      "bookingDate": "2025-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18561,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-133",
+      "bookingDate": "2025-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 773,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-134",
+      "bookingDate": "2025-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 18851,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-135",
+      "bookingDate": "2025-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 483,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19334,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-136",
+      "bookingDate": "2026-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1466,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20800,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "RAJHI-137",
+      "bookingDate": "2026-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20000,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-138",
+      "bookingDate": "2026-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20800,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-139",
+      "bookingDate": "2026-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20300,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-140",
+      "bookingDate": "2026-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20800,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-141",
+      "bookingDate": "2026-02-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1000,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19800,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-142",
+      "bookingDate": "2026-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 792,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19008,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-143",
+      "bookingDate": "2026-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 792,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19800,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-144",
+      "bookingDate": "2026-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 495,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19305,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-145",
+      "bookingDate": "2026-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 495,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 19800,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-146",
+      "bookingDate": "2026-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2200,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-147",
+      "bookingDate": "2026-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21200,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-148",
+      "bookingDate": "2026-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22000,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-149",
+      "bookingDate": "2026-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21500,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-150",
+      "bookingDate": "2026-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22000,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-151",
+      "bookingDate": "2026-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1200,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23200,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "RAJHI-152",
+      "bookingDate": "2026-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22400,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-153",
+      "bookingDate": "2026-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23200,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-154",
+      "bookingDate": "2026-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 22700,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-155",
+      "bookingDate": "2026-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23200,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-156",
+      "bookingDate": "2026-05-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21600,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-157",
+      "bookingDate": "2026-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 20800,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-158",
+      "bookingDate": "2026-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21600,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-159",
+      "bookingDate": "2026-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21100,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-160",
+      "bookingDate": "2026-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 21600,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-161",
+      "bookingDate": "2026-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 24400,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "RAJHI-162",
+      "bookingDate": "2026-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23600,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-163",
+      "bookingDate": "2026-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 24400,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-164",
+      "bookingDate": "2026-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 23900,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-165",
+      "bookingDate": "2026-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 24400,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-166",
+      "bookingDate": "2026-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2000,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 26400,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "RAJHI-167",
+      "bookingDate": "2026-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25600,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-168",
+      "bookingDate": "2026-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 26400,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-169",
+      "bookingDate": "2026-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25900,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-170",
+      "bookingDate": "2026-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 26400,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-171",
+      "bookingDate": "2026-08-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1200,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25200,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-172",
+      "bookingDate": "2026-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 24400,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-173",
+      "bookingDate": "2026-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25200,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-174",
+      "bookingDate": "2026-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 24700,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-175",
+      "bookingDate": "2026-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 25200,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-176",
+      "bookingDate": "2026-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28000,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "RAJHI-177",
+      "bookingDate": "2026-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 27200,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-178",
+      "bookingDate": "2026-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-179",
+      "bookingDate": "2026-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 27500,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-180",
+      "bookingDate": "2026-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-181",
+      "bookingDate": "2026-10-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 1600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 29600,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "RAJHI-182",
+      "bookingDate": "2026-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28800,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-183",
+      "bookingDate": "2026-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 29600,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-184",
+      "bookingDate": "2026-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 29100,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-185",
+      "bookingDate": "2026-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 29600,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-186",
+      "bookingDate": "2026-11-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1200,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28400,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-187",
+      "bookingDate": "2026-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 27600,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-188",
+      "bookingDate": "2026-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28400,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-189",
+      "bookingDate": "2026-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 27900,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-190",
+      "bookingDate": "2026-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 28400,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-191",
+      "bookingDate": "2026-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3200,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 31600,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "RAJHI-192",
+      "bookingDate": "2026-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 30800,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-193",
+      "bookingDate": "2026-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 31600,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-194",
+      "bookingDate": "2026-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 31100,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-195",
+      "bookingDate": "2026-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 31600,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-196",
+      "bookingDate": "2027-01-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2000,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 33600,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-197",
+      "bookingDate": "2027-01-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 32800,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-198",
+      "bookingDate": "2027-01-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 33600,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-199",
+      "bookingDate": "2027-01-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 33100,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-200",
+      "bookingDate": "2027-01-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 33600,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-201",
+      "bookingDate": "2027-02-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 32000,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-202",
+      "bookingDate": "2027-02-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 31200,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-203",
+      "bookingDate": "2027-02-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 32000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-204",
+      "bookingDate": "2027-02-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 31500,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-205",
+      "bookingDate": "2027-02-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 32000,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-206",
+      "bookingDate": "2027-03-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3200,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 35200,
+        "currency": "SAR"
+      },
+      "description": "تحويل من حساب آخر"
+    },
+    {
+      "transactionId": "RAJHI-207",
+      "bookingDate": "2027-03-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34400,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-208",
+      "bookingDate": "2027-03-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 35200,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-209",
+      "bookingDate": "2027-03-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 34700,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-210",
+      "bookingDate": "2027-03-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 35200,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-211",
+      "bookingDate": "2027-04-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2000,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 37200,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "RAJHI-212",
+      "bookingDate": "2027-04-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 36400,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-213",
+      "bookingDate": "2027-04-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 37200,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-214",
+      "bookingDate": "2027-04-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 36700,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-215",
+      "bookingDate": "2027-04-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 37200,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-216",
+      "bookingDate": "2027-05-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1200,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 36000,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-217",
+      "bookingDate": "2027-05-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 35200,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-218",
+      "bookingDate": "2027-05-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 36000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-219",
+      "bookingDate": "2027-05-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 35500,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-220",
+      "bookingDate": "2027-05-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 36000,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-221",
+      "bookingDate": "2027-06-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38800,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-222",
+      "bookingDate": "2027-06-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38000,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-223",
+      "bookingDate": "2027-06-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38800,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-224",
+      "bookingDate": "2027-06-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38300,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-225",
+      "bookingDate": "2027-06-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38800,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-226",
+      "bookingDate": "2027-07-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2400,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 41200,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "RAJHI-227",
+      "bookingDate": "2027-07-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 40400,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-228",
+      "bookingDate": "2027-07-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 41200,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-229",
+      "bookingDate": "2027-07-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 40700,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-230",
+      "bookingDate": "2027-07-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 41200,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-231",
+      "bookingDate": "2027-08-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39600,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-232",
+      "bookingDate": "2027-08-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 38800,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-233",
+      "bookingDate": "2027-08-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39600,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-234",
+      "bookingDate": "2027-08-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39100,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-235",
+      "bookingDate": "2027-08-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 39600,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-236",
+      "bookingDate": "2027-09-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 3600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 43200,
+        "currency": "SAR"
+      },
+      "description": "تحويل عبر تطبيق"
+    },
+    {
+      "transactionId": "RAJHI-237",
+      "bookingDate": "2027-09-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42400,
+        "currency": "SAR"
+      },
+      "description": "سحب صراف آلي"
+    },
+    {
+      "transactionId": "RAJHI-238",
+      "bookingDate": "2027-09-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 43200,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    },
+    {
+      "transactionId": "RAJHI-239",
+      "bookingDate": "2027-09-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 42700,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-240",
+      "bookingDate": "2027-09-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 43200,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-241",
+      "bookingDate": "2027-10-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 2400,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 45600,
+        "currency": "SAR"
+      },
+      "description": "إيداع راتب"
+    },
+    {
+      "transactionId": "RAJHI-242",
+      "bookingDate": "2027-10-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 44800,
+        "currency": "SAR"
+      },
+      "description": "شراء إلكتروني"
+    },
+    {
+      "transactionId": "RAJHI-243",
+      "bookingDate": "2027-10-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 45600,
+        "currency": "SAR"
+      },
+      "description": "تحويل وارد"
+    },
+    {
+      "transactionId": "RAJHI-244",
+      "bookingDate": "2027-10-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 45100,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-245",
+      "bookingDate": "2027-10-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 45600,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-246",
+      "bookingDate": "2027-11-01",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 1600,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 44000,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-247",
+      "bookingDate": "2027-11-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 43200,
+        "currency": "SAR"
+      },
+      "description": "دفع فاتورة جوال"
+    },
+    {
+      "transactionId": "RAJHI-248",
+      "bookingDate": "2027-11-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 44000,
+        "currency": "SAR"
+      },
+      "description": "حوالة محلية واردة"
+    },
+    {
+      "transactionId": "RAJHI-249",
+      "bookingDate": "2027-11-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 43500,
+        "currency": "SAR"
+      },
+      "description": "مشتريات - نقاط بيع"
+    },
+    {
+      "transactionId": "RAJHI-250",
+      "bookingDate": "2027-11-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 44000,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-251",
+      "bookingDate": "2027-12-01",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 4000,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 48000,
+        "currency": "SAR"
+      },
+      "description": "إيداع نقدي"
+    },
+    {
+      "transactionId": "RAJHI-252",
+      "bookingDate": "2027-12-08",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 47200,
+        "currency": "SAR"
+      },
+      "description": "اشتراك خدمة رقمية"
+    },
+    {
+      "transactionId": "RAJHI-253",
+      "bookingDate": "2027-12-13",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 800,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 48000,
+        "currency": "SAR"
+      },
+      "description": "استرداد مشتريات"
+    },
+    {
+      "transactionId": "RAJHI-254",
+      "bookingDate": "2027-12-25",
+      "creditDebitIndicator": "Debit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 47500,
+        "currency": "SAR"
+      },
+      "description": "سداد فاتورة"
+    },
+    {
+      "transactionId": "RAJHI-255",
+      "bookingDate": "2027-12-28",
+      "creditDebitIndicator": "Credit",
+      "amount": {
+        "amount": 500,
+        "currency": "SAR"
+      },
+      "runningBalance": {
+        "amount": 48000,
+        "currency": "SAR"
+      },
+      "description": "استرداد"
+    }
+  ]
+}

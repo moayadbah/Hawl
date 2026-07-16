@@ -1,0 +1,40 @@
+{
+  "name": "hawl",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "gen:data": "tsx scripts/generateMockData.ts",
+    "engine:check": "tsx scripts/checkEngine.ts",
+    "fetch:silver": "tsx scripts/fetchSilverHistory.ts",
+    "seed:silver": "tsx --env-file=.env.local scripts/seedSilverPrices.ts"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.3.0",
+    "@fortawesome/free-brands-svg-icons": "^7.3.0",
+    "@fortawesome/free-solid-svg-icons": "^7.3.0",
+    "@fortawesome/react-fontawesome": "^3.3.1",
+    "@supabase/supabase-js": "^2.110.2",
+    "card-validator": "^10.0.4",
+    "html-to-image": "^1.11.13",
+    "moment": "2.30.1",
+    "moment-hijri": "2.1.2",
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "2.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.39",
+    "tailwindcss": "3.4.6",
+    "tsx": "4.16.2",
+    "typescript": "5.5.3"
+  }
+}

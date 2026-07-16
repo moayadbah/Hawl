@@ -1,7 +1,7 @@
 /**
  * Reproducible, auditable engine for `data/silverPriceHistory.json` — replaces the
- * old one-time, undocumented manual pull with a script anyone (including hackathon
- * judges) can re-run themselves to see the real fetch happen:
+ * old one-time, undocumented manual pull with a script anyone can re-run themselves
+ * to see the real fetch happen:
  *
  *   npm run fetch:silver
  *

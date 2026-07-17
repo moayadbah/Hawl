@@ -6,6 +6,8 @@
 
 **🔗 التطبيق المباشر:** https://hawl-team.vercel.app
 
+**📊 العرض التقديمي:** https://docs.google.com/presentation/d/1G9sJNrV1KNP_MEVMOn3bBqHopcVCqc12eCoTQnlxWY4/edit?usp=sharing
+
 ## التشغيل محلياً
 
 ```bash
